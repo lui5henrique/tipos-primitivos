@@ -13,4 +13,7 @@ const num2 = 20
 const calc = num1 + num2
 console.log("O resultado é " + calc)
 
+const num3 = 35
+console.log("num3")
+
 
