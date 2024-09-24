@@ -47,6 +47,21 @@ console.log("O preço com desconto ficará " + calc)
 
 //IMPOSTO DE RENDA - não consegui fazer.
 
+/*
+Categoria 1 - até R$ 2112,00: insento
+Categoria 2 - R$ 2112,01 até R$ 2826,65: 7.5%
+Categoria 3 - R$ 2826,66 até R$ 3751,05: 15%
+Categoria 4 - R$ 3751,06 até R$ 4664,68: 22.5%
+Categoria 5 - R$ 4664,68 ou maior: 27.5% 
+*/
+
+var salario_bruto = 5000
+var categoria_2
+var categoria_3
+var categoria_4
+var categoria_5
+
+
 var valor_real = 100
 var cambio_dolar = 5.5
 var conversao = valor_real * cambio_dolar
