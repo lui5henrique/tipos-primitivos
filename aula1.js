@@ -46,7 +46,6 @@ var calc = preco_original * desconto
 console.log("O preço com desconto ficará " + calc)
 
 //IMPOSTO DE RENDA - não consegui fazer.
-
 /*
 Categoria 1 - até R$ 2112,00: insento
 Categoria 2 - R$ 2112,01 até R$ 2826,65: 7.5%
