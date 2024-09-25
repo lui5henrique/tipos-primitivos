@@ -2,15 +2,15 @@
 //TIPOS PRIMITIVOS
 
 var name = "Luis Henrique"
-var idade = 20
+var idade = 20;
 console.log("Olá, meu nome é " + name + " e tenho "+ idade +" anos.")
 
 var name = "Luis Henrique"
 var city = "Recife"
 console.log("" + name + " é de "+ city +".")
 
-var num1 = 50
-var num2 = 100
+var num1 = 50;
+var num2 = 100;
 var calc = num1 + num2
 console.log("O resultado da SOMA é " + calc)
 
