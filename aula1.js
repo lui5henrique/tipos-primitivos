@@ -2,15 +2,15 @@
 //TIPOS PRIMITIVOS
 
 var name = "Luis Henrique"
-var idade = 20;
+var idade = 20
 console.log("Olá, meu nome é " + name + " e tenho "+ idade +" anos.")
 
 var name = "Luis Henrique"
 var city = "Recife"
 console.log("" + name + " é de "+ city +".")
 
-var num1 = 50;
-var num2 = 100;
+var num1 = 50
+var num2 = 100
 var calc = num1 + num2
 console.log("O resultado da SOMA é " + calc)
 
@@ -52,14 +52,14 @@ Categoria 2 - R$ 2112,01 até R$ 2826,65: 7.5%
 Categoria 3 - R$ 2826,66 até R$ 3751,05: 15%
 Categoria 4 - R$ 3751,06 até R$ 4664,68: 22.5%
 Categoria 5 - R$ 4664,68 ou maior: 27.5% 
-*/
+
 
 var salario_bruto = 5000
 var categoria_2
 var categoria_3
 var categoria_4
 var categoria_5
-
+*/
 
 var valor_real = 100
 var cambio_dolar = 5.5
